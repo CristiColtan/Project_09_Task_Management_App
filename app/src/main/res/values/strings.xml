@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CCTask</string>
+    <string-array name="culori_text">
+        <item>Negru</item>
+        <item>Roșu</item>
+        <item>Alb</item>
+        <item>Verde</item>
+    </string-array>
+</resources>
